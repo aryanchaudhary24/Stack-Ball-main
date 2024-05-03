@@ -19,7 +19,7 @@
 ### Installation
 
 1. Clone or download the repository to your local machine.
-git clone https://github.com/aryanchaudharyh24/Stack-Ball-main.git
+git clone https://github.com/aryanchaudhary24/Stack-Ball-main.git
 
 2. Open the project in Unity.
 
